@@ -10,6 +10,4 @@ A lot of my projects revolve around things I'm interested in myself — **homela
 
 Some projects turn into useful tools.  
 Some remain experiments.  
-And sometimes I just build something because I want to know if it can be done.
-
-That's basically the point. 🙂
+And sometimes I just build something because I want to know if it can be done. 🙂
