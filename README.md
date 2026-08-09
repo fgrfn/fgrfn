@@ -11,3 +11,5 @@ A lot of my projects revolve around things I'm interested in myself — **homela
 Some projects turn into useful tools.  
 Some remain experiments.  
 And sometimes I just build something because I want to know if it can be done. 🙂
+
+If something I've shared has been useful to you, you can [buy me a coffee ☕](https://buymeacoffee.com/fgrfn).
